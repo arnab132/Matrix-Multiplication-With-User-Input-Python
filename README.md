@@ -14,7 +14,7 @@ Step 4: Then we multiply each row elements of first matrix with each elements of
 
 Sample Output
 
-Enter N for N x N matrix: 
+Enter N for N x N matrix: 3
 
 Enter the element ::>
 
