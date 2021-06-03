@@ -55,7 +55,7 @@ Display Array In Matrix Form
 4 5 6 
 7 8 9 
 
-The Resultant Sum Matrix Is ::>
+The Resultant Matrix Is ::>
 
 [34, 41, 48]
 [20, 25, 30]
