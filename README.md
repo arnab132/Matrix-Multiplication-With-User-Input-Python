@@ -1,13 +1,16 @@
-# Matrix-Multiplication-Python
+# Matrix Multiplication With User Input Using Python
 
 Given two user input matrix. Our task is to display the addition of two matrix. In these problem we use nested List comprehensive.
 
 Algorithm
-Step1: input two matrix.
-Step 2: nested for loops to iterate through each row and each column.
-Step 3: take one resultant matrix which is initially contains all 0. Then we multiply each row elements of first matrix with each elements of second matrix, then add all multiplied value. That is the value of resultant matrix.
 
-In this method, we have to iterate through each row and each column items that’s why we use nested loops here.
+Step1: Input two matrix from the User.
+
+Step 2: Nested for loops to iterate through each row and each column.
+
+Step 3: Take one resultant matrix which is initially contains all 0. 
+
+Step 4: Then we multiply each row elements of first matrix with each elements of second matrix, then add all multiplied value. That is the value of resultant matrix.
 
 Sample Output
 
