@@ -1,6 +1,6 @@
 # Matrix Multiplication With User Input Using Python
 
-Given two user input matrix. Our task is to display the addition of two matrix. In these problem we use nested List comprehensive.
+Given two user input matrix. Our task is to Display the addition of two matrix. In these problem we use nested List comprehensive.
 
 Algorithm
 
