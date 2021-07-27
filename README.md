@@ -10,7 +10,7 @@ Step 2: Nested for loops to iterate through each row and each column.
 
 Step 3: Take one resultant matrix which is initially contains all 0. 
 
-Step 4: Then we multiply each row elements of first matrix with each elements of second matrix, then add all multiplied value. That is the value of resultant matrix.
+Step 4: Then we multiply each row elements of first matrix with each elements of Second matrix, then add all multiplied value. That is the value of resultant matrix.
 
 Sample Output
 
